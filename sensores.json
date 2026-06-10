@@ -1,0 +1,7148 @@
+{
+  "contador_sensores": 66,
+  "historico_irrigacao": [
+    {
+      "ts": "2026-04-19T16:47:46.988643"
+    },
+    {
+      "ts": "2026-04-19T18:15:32.235757",
+      "observacao": "",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-04-19T18:46:14.840802",
+      "observacao": "",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-04-19T18:53:02.674581",
+      "observacao": "",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-04-21T16:24:50.359719",
+      "observacao": "",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-04-21T16:58:40.792695",
+      "observacao": "",
+      "alertas_umidade": [
+        {
+          "sensor_id": "S0018",
+          "sensor_nome": "Sensor-S0018",
+          "valor": 28.1,
+          "min_val": 30.0
+        }
+      ]
+    },
+    {
+      "ts": "2026-04-21T16:59:34.985805",
+      "observacao": "ahaha",
+      "alertas_umidade": [
+        {
+          "sensor_id": "S0018",
+          "sensor_nome": "Sensor-S0018",
+          "valor": 28.1,
+          "min_val": 30.0
+        }
+      ]
+    },
+    {
+      "ts": "2026-04-21T16:59:41.514718",
+      "observacao": "",
+      "alertas_umidade": [
+        {
+          "sensor_id": "S0018",
+          "sensor_nome": "Sensor-S0018",
+          "valor": 28.1,
+          "min_val": 30.0
+        }
+      ]
+    },
+    {
+      "ts": "2026-04-21T17:19:33.769223",
+      "sensor_id": "S0018",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-04-21T17:20:53.609261",
+      "tipo": "global",
+      "alertas_umidade": [
+        {
+          "sensor_id": "S0018",
+          "sensor_nome": "Sensor-S0018",
+          "valor": 28.1,
+          "min_val": 30.0
+        }
+      ]
+    },
+    {
+      "ts": "2026-04-21T17:34:22.806115",
+      "sensor_id": "S0021",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-05-28T00:07:02.582468",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-05-28T00:07:27.366681",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:06:04.305638",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:06:08.347356",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:06:51.870069",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:06:54.136846",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:09:54.438115",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:09:55.332957",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:11:36.891238",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:15:44.800051",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:16:07.595426",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T11:16:16.804213",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T18:17:40.627463",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T18:19:04.816409",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T18:20:33.971331",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T18:22:04.189106",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-05T18:23:37.241126",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:39.150661",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:39.649662",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:39.856598",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:40.041210",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:40.249370",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:40.435681",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:40.624972",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:40.931442",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:41.255570",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:41.623040",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:23:44.140662",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:11.327804",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:15.426430",
+      "sensor_id": "S0057",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:19.975287",
+      "sensor_id": "S0058",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:20.487248",
+      "sensor_id": "S0058",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:20.801347",
+      "sensor_id": "S0058",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:20.978768",
+      "sensor_id": "S0058",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:24:21.136652",
+      "sensor_id": "S0058",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-05T18:34:05.905573",
+      "tipo": "global",
+      "alertas_umidade": []
+    },
+    {
+      "ts": "2026-06-09T21:18:24.926619",
+      "sensor_id": "S0064",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-09T21:25:22.472859",
+      "sensor_id": "S0063",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-09T21:25:27.883622",
+      "sensor_id": "S0063",
+      "tipo": "individual"
+    },
+    {
+      "ts": "2026-06-09T21:28:45.222599",
+      "tipo": "global",
+      "alertas_umidade": [
+        {
+          "sensor_id": "S0060",
+          "sensor_nome": "Sensor-S0060",
+          "valor": 20.0,
+          "min_val": 40.0
+        }
+      ]
+    }
+  ],
+  "sensores": [
+    {
+      "id": "S0019",
+      "nome": "Sensor-S0019",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 18.0,
+      "max_val": 31.0,
+      "falha": "variacao",
+      "criado_em": "2026-04-21T17:21:48.660096",
+      "historico": [
+        {
+          "ts": "2026-04-21T17:21:50.581193",
+          "valor": 23.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:23:07.589753",
+          "valor": 26.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:27:36.249810",
+          "valor": 26.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:28:05.071519",
+          "valor": 25.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:34:34.291237",
+          "valor": 24.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:42.754568",
+          "valor": 23.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:44:07.768457",
+          "valor": 25.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:44:08.628892",
+          "valor": 24.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:08:29.892197",
+          "valor": 25.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585462",
+          "valor": 34.2,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886376",
+          "valor": 34.9,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048305",
+          "valor": 19.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190565",
+          "valor": 15.8,
+          "status": "alerta",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988876",
+          "valor": 37.5,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197132",
+          "valor": 28.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.281922",
+          "valor": 38.4,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360605",
+          "valor": 21.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972376",
+          "valor": 36.6,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159816",
+          "valor": 21.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721196",
+          "valor": 31.4,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784875",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028385",
+          "valor": 15.2,
+          "status": "alerta",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156590",
+          "valor": 28.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250454",
+          "valor": 36.9,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374131",
+          "valor": 28.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171393",
+          "valor": 19.8,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914497",
+          "valor": 37.3,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199313",
+          "valor": 16.6,
+          "status": "alerta",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075241",
+          "valor": 16.7,
+          "status": "alerta",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235536",
+          "valor": 15.8,
+          "status": "alerta",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145680",
+          "valor": 25.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400452",
+          "valor": 25.7,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:21:02.275986",
+          "valor": 38.7,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:25.727242",
+          "valor": 20.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:01.602874",
+          "valor": 16.1,
+          "status": "alerta",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:42.341320",
+          "valor": 22.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:23.963879",
+          "valor": 30.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:17.960767",
+          "valor": 33.6,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:43.605721",
+          "valor": 28.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:48.498018",
+          "valor": 27.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:37.748790",
+          "valor": 16.6,
+          "status": "alerta",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:27.693649",
+          "valor": 21.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:20.903974",
+          "valor": 34.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:46.845315",
+          "valor": 13.8,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:33:53.585462",
+          "status": "erro",
+          "valor": 34.2,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048305",
+          "status": "ok",
+          "valor": 19.6,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190565",
+          "status": "alerta",
+          "valor": 15.8,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988876",
+          "status": "erro",
+          "valor": 37.5,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197132",
+          "status": "ok",
+          "valor": 28.1,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.281922",
+          "status": "erro",
+          "valor": 38.4,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360605",
+          "status": "ok",
+          "valor": 21.0,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972376",
+          "status": "erro",
+          "valor": 36.6,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159816",
+          "status": "ok",
+          "valor": 21.1,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721196",
+          "status": "erro",
+          "valor": 31.4,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784875",
+          "status": "ok",
+          "valor": 19.1,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028385",
+          "status": "alerta",
+          "valor": 15.2,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156590",
+          "status": "ok",
+          "valor": 28.6,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250454",
+          "status": "erro",
+          "valor": 36.9,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374131",
+          "status": "ok",
+          "valor": 28.9,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914497",
+          "status": "erro",
+          "valor": 37.3,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199313",
+          "status": "alerta",
+          "valor": 16.6,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145680",
+          "status": "ok",
+          "valor": 25.6,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:21:02.275986",
+          "status": "erro",
+          "valor": 38.7,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:25.727242",
+          "status": "ok",
+          "valor": 20.7,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:01.602874",
+          "status": "alerta",
+          "valor": 16.1,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:42.341320",
+          "status": "ok",
+          "valor": 22.1,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:17.960767",
+          "status": "erro",
+          "valor": 33.6,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:43.605721",
+          "status": "ok",
+          "valor": 28.4,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:37.748790",
+          "status": "alerta",
+          "valor": 16.6,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:27.693649",
+          "status": "ok",
+          "valor": 21.0,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:20.903974",
+          "status": "erro",
+          "valor": 34.0,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 13.8,
+      "ultima_leitura": "2026-06-09T21:29:46.845315"
+    },
+    {
+      "id": "S0020",
+      "nome": "Sensor-S0020",
+      "tipo": "temp",
+      "modo": "estufa",
+      "min_val": 18.0,
+      "max_val": 31.0,
+      "falha": "variacao",
+      "criado_em": "2026-04-21T17:21:58.677390",
+      "historico": [
+        {
+          "ts": "2026-04-21T17:21:58.677412",
+          "valor": 25.8,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:40:05.375045",
+          "valor": 17.5,
+          "status": "alerta",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:13.549933",
+          "valor": 0.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:50.398672",
+          "valor": 24.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-05-28T00:07:12.748286",
+          "valor": 20.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:07:03.710539",
+          "valor": 29.0,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-04-21T17:40:05.375045",
+          "status": "alerta",
+          "valor": 17.5,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:13.549933",
+          "status": "erro",
+          "valor": 0.9,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:50.398672",
+          "status": "ok",
+          "valor": 24.6,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "ok",
+      "ultimo_valor": 29.0,
+      "ultima_leitura": "2026-06-05T11:07:03.710539",
+      "historico_temp_manual": [
+        {
+          "ts": "2026-04-21T17:26:09.507690",
+          "valor": 0.5
+        },
+        {
+          "ts": "2026-04-21T17:27:28.720694",
+          "valor": 31.0
+        }
+      ]
+    },
+    {
+      "id": "S0021",
+      "nome": "Sensor-S0021",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 16.0,
+      "max_val": 31.0,
+      "falha": "variacao",
+      "criado_em": "2026-04-21T17:22:18.423203",
+      "historico": [
+        {
+          "ts": "2026-04-21T17:22:18.423228",
+          "valor": 27.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:23:06.446451",
+          "valor": 25.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:27:35.176628",
+          "valor": 27.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:28:04.083097",
+          "valor": 27.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:34:33.289371",
+          "valor": 27.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:41.460663",
+          "valor": 29.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-05-28T00:08:29.160742",
+          "valor": 30.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:01.815669",
+          "valor": 36.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:25.232439",
+          "valor": 47.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:00.831658",
+          "valor": 40.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:41.446731",
+          "valor": 35.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:23.201877",
+          "valor": 41.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:17.121135",
+          "valor": 32.5,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:42.785041",
+          "valor": 39.3,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:47.275311",
+          "valor": 47.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:36.830675",
+          "valor": 59.7,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:26.846134",
+          "valor": 71.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:20.041712",
+          "valor": 76.5,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:45.985299",
+          "valor": 67.8,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T18:21:01.815669",
+          "status": "erro",
+          "valor": 36.2,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 67.8,
+      "ultima_leitura": "2026-06-09T21:29:45.985299",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0022",
+      "nome": "Sensor-S0022",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": "variacao",
+      "criado_em": "2026-04-21T17:22:38.724641",
+      "historico": [
+        {
+          "ts": "2026-04-21T17:22:40.053604",
+          "valor": 63.8,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:23:06.419548",
+          "valor": 64.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:27:35.150546",
+          "valor": 63.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:28:04.053424",
+          "valor": 61.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:33:55.020299",
+          "valor": 65.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:34:08.570810",
+          "valor": 63.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:34:33.265966",
+          "valor": 62.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:41.436619",
+          "valor": 62.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:44:07.768577",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:44:08.628946",
+          "valor": 62.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:08:29.086436",
+          "valor": 53.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585494",
+          "valor": 67.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886400",
+          "valor": 74.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048334",
+          "valor": 64.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190626",
+          "valor": 46.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988926",
+          "valor": 67.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197179",
+          "valor": 47.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.281971",
+          "valor": 59.8,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360657",
+          "valor": 72.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972413",
+          "valor": 52.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159866",
+          "valor": 75.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721240",
+          "valor": 58.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784924",
+          "valor": 53.2,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028435",
+          "valor": 64.2,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156623",
+          "valor": 64.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250511",
+          "valor": 73.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374176",
+          "valor": 75.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171426",
+          "valor": 72.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914582",
+          "valor": 71.2,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199467",
+          "valor": 57.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075284",
+          "valor": 63.8,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235574",
+          "valor": 64.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145707",
+          "valor": 58.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400498",
+          "valor": 47.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:21:01.777727",
+          "valor": 51.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:25.192742",
+          "valor": 51.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:00.791498",
+          "valor": 48.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:41.414586",
+          "valor": 52.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:23.148097",
+          "valor": 73.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:17.063596",
+          "valor": 72.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:42.730771",
+          "valor": 78.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:47.212253",
+          "valor": 67.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:36.773305",
+          "valor": 67.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:26.793654",
+          "valor": 70.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:59.640007",
+          "valor": 72.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:19.984014",
+          "valor": 48.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:45.921608",
+          "valor": 57.6,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 57.6,
+      "ultima_leitura": "2026-06-09T21:29:45.921608",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0023",
+      "nome": "Sensor-S0023",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 18.0,
+      "max_val": 31.0,
+      "falha": "sem_resposta",
+      "criado_em": "2026-04-21T17:22:52.025298",
+      "historico": [
+        {
+          "ts": "2026-04-21T17:22:53.312487",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:23:05.441036",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:23:59.545551",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:27:34.111659",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:28:03.073420",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:34:32.267573",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:40.397427",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:44:07.768618",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:44:08.628975",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:08:28.319806",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585504",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886407",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048342",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190652",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988940",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197201",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.281984",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360679",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972424",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159889",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721259",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784942",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028448",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156657",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250535",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374197",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171439",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914612",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199495",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075305",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235591",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145725",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400516",
+          "valor": null,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:21:00.294259",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:24.693440",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:59.926009",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:40.506256",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:22.364902",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:16.158482",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:41.888794",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:46.361596",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:35.857842",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:25.877893",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:18.768721",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:45.100019",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-05-28T00:08:28.319806",
+          "status": "erro",
+          "valor": null,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": null,
+      "ultima_leitura": "2026-06-09T21:29:45.100019"
+    },
+    {
+      "id": "S0024",
+      "nome": "Sensor-S0024",
+      "tipo": "temp",
+      "modo": "estufa",
+      "min_val": 18.0,
+      "max_val": 31.0,
+      "falha": "erro_deteccao",
+      "criado_em": "2026-04-21T17:23:26.406980",
+      "historico": [
+        {
+          "ts": "2026-04-21T17:23:26.407002",
+          "valor": 25.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-04-21T17:40:05.375136",
+          "valor": 18.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:13.549976",
+          "valor": 3.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:50.398715",
+          "valor": 26.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-05-28T00:07:12.748343",
+          "valor": 55.7,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:07:03.710590",
+          "valor": 59.6,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-04-21T17:40:13.549976",
+          "status": "erro",
+          "valor": 3.0,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-04-21T17:40:50.398715",
+          "status": "ok",
+          "valor": 26.2,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-05-28T00:07:12.748343",
+          "status": "erro",
+          "valor": 55.7,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 59.6,
+      "ultima_leitura": "2026-06-05T11:07:03.710590"
+    },
+    {
+      "id": "S0025",
+      "nome": "Sensor-S0025",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 1.0,
+      "max_val": 30.0,
+      "falha": "erro_deteccao",
+      "criado_em": "2026-05-28T00:05:19.121856",
+      "historico": [
+        {
+          "ts": "2026-05-28T00:05:20.255926",
+          "valor": 27.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:08:27.419819",
+          "valor": 25.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585510",
+          "valor": 44.1,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886412",
+          "valor": -9.2,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048350",
+          "valor": -11.6,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190672",
+          "valor": -18.7,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988951",
+          "valor": 44.1,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197218",
+          "valor": -17.4,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.281995",
+          "valor": 41.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360697",
+          "valor": 42.9,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972434",
+          "valor": -12.4,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159907",
+          "valor": -12.9,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721274",
+          "valor": -7.2,
+          "status": "alerta",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784956",
+          "valor": -14.8,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028459",
+          "valor": 48.8,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156668",
+          "valor": -12.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250555",
+          "valor": 44.7,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374212",
+          "valor": -18.2,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171449",
+          "valor": -19.4,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914631",
+          "valor": 47.1,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199522",
+          "valor": -10.6,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075320",
+          "valor": 41.4,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235604",
+          "valor": 37.3,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145729",
+          "valor": -8.5,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400530",
+          "valor": -18.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:59.548663",
+          "valor": 41.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:24.154124",
+          "valor": -15.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:59.025847",
+          "valor": 37.7,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:39.735630",
+          "valor": -7.4,
+          "status": "alerta",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:21.576786",
+          "valor": -17.3,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:15.353004",
+          "valor": -15.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:41.154059",
+          "valor": 39.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:45.521631",
+          "valor": 44.8,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:35.031599",
+          "valor": -18.1,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:25.018809",
+          "valor": 44.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:17.859684",
+          "valor": 40.3,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:44.275569",
+          "valor": 44.6,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:33:53.585510",
+          "status": "erro",
+          "valor": 44.1,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721274",
+          "status": "alerta",
+          "valor": -7.2,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784956",
+          "status": "erro",
+          "valor": -14.8,
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:24:39.735630",
+          "status": "alerta",
+          "valor": -7.4,
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:21.576786",
+          "status": "erro",
+          "valor": -17.3,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 44.6,
+      "ultima_leitura": "2026-06-09T21:29:44.275569"
+    },
+    {
+      "id": "S0026",
+      "nome": "Sensor-S0026",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-05-28T00:05:36.689349",
+      "historico": [
+        {
+          "ts": "2026-05-28T00:05:37.395701",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:08:26.498644",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585519",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886420",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048366",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190702",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988973",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197243",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282016",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360724",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972452",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159937",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721297",
+          "valor": 60.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784982",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028480",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156685",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250586",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374236",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171467",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914661",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199594",
+          "valor": 60.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075346",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235623",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145738",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400552",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:59.072815",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:23.692760",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:58.272204",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:38.780920",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:20.677764",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:14.516930",
+          "valor": 60.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:40.232231",
+          "valor": 60.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:44.622918",
+          "valor": 60.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:34.258461",
+          "valor": 60.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:24.089134",
+          "valor": 60.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:17.084132",
+          "valor": 60.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:43.435939",
+          "valor": 60.6,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.6,
+      "ultima_leitura": "2026-06-09T21:29:43.435939",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0027",
+      "nome": "Sensor-S0027",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 50.0,
+      "max_val": 60.0,
+      "falha": null,
+      "criado_em": "2026-05-28T00:05:47.237664",
+      "historico": [
+        {
+          "ts": "2026-05-28T00:05:47.237680",
+          "valor": 57.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:08:25.609610",
+          "valor": 57.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:20:58.567316",
+          "valor": 58.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:23.146151",
+          "valor": 58.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:57.489460",
+          "valor": 58.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:37.814765",
+          "valor": 59.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:19.983168",
+          "valor": 59.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:13.525956",
+          "valor": 59.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:39.401061",
+          "valor": 60.4,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:43.736603",
+          "valor": 61.1,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:33.324647",
+          "valor": 61.8,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:23.117950",
+          "valor": 62.5,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:16.136964",
+          "valor": 63.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:42.590673",
+          "valor": 63.9,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-09T21:18:39.401061",
+          "status": "erro",
+          "valor": 60.4,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 63.9,
+      "ultima_leitura": "2026-06-09T21:29:42.590673",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0028",
+      "nome": "Sensor-S0028",
+      "tipo": "temp",
+      "modo": "estufa",
+      "min_val": 20.0,
+      "max_val": 22.0,
+      "falha": "sem_resposta",
+      "criado_em": "2026-05-28T00:05:56.254946",
+      "historico": [
+        {
+          "ts": "2026-05-28T00:05:56.254970",
+          "valor": 24.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-05-28T00:07:12.748381",
+          "valor": 28.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T11:07:03.710625",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-05-28T00:05:56.254970",
+          "status": "erro",
+          "valor": 24.0,
+          "origem": "auto"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": null,
+      "ultima_leitura": "2026-06-05T11:07:03.710625"
+    },
+    {
+      "id": "S0029",
+      "nome": "Sensor-S0029",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 10.0,
+      "max_val": 20.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:04:58.108893",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:04:58.660766",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585523",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886424",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048373",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190769",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988983",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197259",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282026",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360742",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972461",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159955",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721313",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.784997",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028490",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156697",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250605",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374252",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171478",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914680",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199610",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075362",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235636",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145742",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400568",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:58.535917",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:23.107086",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:57.448384",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:37.753711",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:19.924175",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:13.468433",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:39.347847",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:43.686990",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:33.265625",
+          "valor": 25.3,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:23.082034",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:16.077764",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:42.540485",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:04:58.660766",
+          "status": "erro",
+          "valor": 25.0,
+          "origem": "auto"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 25.2,
+      "ultima_leitura": "2026-06-09T21:29:42.540485"
+    },
+    {
+      "id": "S0030",
+      "nome": "Sensor-S0030",
+      "tipo": "temp",
+      "modo": "estufa",
+      "min_val": 20.0,
+      "max_val": 25.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:05:25.614539",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:05:25.614552",
+          "valor": 24.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:07:03.710642",
+          "valor": 30.0,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:07:03.710642",
+          "status": "erro",
+          "valor": 30.0,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 30.0,
+      "ultima_leitura": "2026-06-05T11:07:03.710642"
+    },
+    {
+      "id": "S0031",
+      "nome": "Sensor-S0031",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 10.0,
+      "max_val": 20.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:05:41.439222",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:05:41.439237",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:58.026034",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:22.633716",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:56.588260",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:36.843950",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:19.041578",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:12.580060",
+          "valor": 19.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:38.628512",
+          "valor": 19.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:42.898677",
+          "valor": 19.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:32.310000",
+          "valor": 19.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:22.052295",
+          "valor": 19.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:15.152781",
+          "valor": 20.1,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:41.679398",
+          "valor": 20.3,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-09T21:28:15.152781",
+          "status": "erro",
+          "valor": 20.1,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 20.3,
+      "ultima_leitura": "2026-06-09T21:29:41.679398",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0032",
+      "nome": "Sensor-S0032",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 10.0,
+      "max_val": 20.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:06:20.579750",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:06:20.579759",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:58.000099",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:22.606841",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:56.540297",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:36.800378",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:19.001751",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:12.546338",
+          "valor": 16.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:38.592763",
+          "valor": 16.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:42.852032",
+          "valor": 16.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:32.270253",
+          "valor": 16.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:22.003874",
+          "valor": 17.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:15.105601",
+          "valor": 17.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:41.636296",
+          "valor": 17.5,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 17.5,
+      "ultima_leitura": "2026-06-09T21:29:41.636296",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0033",
+      "nome": "Sensor-S0033",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 50.0,
+      "max_val": 70.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:06:28.604564",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:06:28.604583",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:57.969636",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:22.578011",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:56.493612",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:36.763911",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:18.944479",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:12.503657",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:38.399029",
+          "valor": 68.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:42.800197",
+          "valor": 69.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:32.228661",
+          "valor": 69.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:21.951680",
+          "valor": 69.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:15.065318",
+          "valor": 69.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:41.578462",
+          "valor": 69.9,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 69.9,
+      "ultima_leitura": "2026-06-09T21:29:41.578462",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0034",
+      "nome": "Sensor-S0034",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 50.0,
+      "max_val": 90.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:06:46.840682",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:06:47.423949",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585527",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886428",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048379",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190800",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.988993",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197274",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282035",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360760",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972469",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159974",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721328",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785012",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028499",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156707",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250623",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374268",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171487",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914699",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199622",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075377",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235649",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145746",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400579",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:57.936112",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:22.544774",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:56.450222",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:36.725905",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:18.893140",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:12.456743",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:38.333906",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:42.752797",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:32.186930",
+          "valor": 60.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:21.904755",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:15.018110",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:41.517848",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.2,
+      "ultima_leitura": "2026-06-09T21:29:41.517848",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0035",
+      "nome": "Sensor-S0035",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:10:06.051874",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:10:06.613822",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585531",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886431",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048384",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190816",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989001",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197288",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282043",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360775",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972477",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.159989",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721340",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785025",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028507",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156715",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250640",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374281",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171495",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914715",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199633",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075391",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235660",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145748",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400589",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:57.438437",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:22.044550",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:55.618268",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:35.856190",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:18.028468",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:11.557423",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:37.564993",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:41.756906",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:31.190894",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:20.918005",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:13.990460",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:40.722473",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.2,
+      "ultima_leitura": "2026-06-09T21:29:40.722473",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0036",
+      "nome": "Sensor-S0036",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:10:29.360951",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:10:29.924149",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585533",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886433",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048388",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190827",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989010",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197300",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282050",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360790",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972483",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160004",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721352",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785036",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028514",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156723",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250655",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374294",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171503",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914730",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199643",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075405",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235670",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145751",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400597",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:56.924302",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:21.515481",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:54.713453",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:35.040880",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:17.269131",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:10.750162",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:36.691507",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:40.826551",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:30.282177",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:20.101781",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:13.000422",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:39.847745",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:10:29.924149",
+          "status": "erro",
+          "valor": 25.0,
+          "origem": "auto"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 25.2,
+      "ultima_leitura": "2026-06-09T21:29:39.847745"
+    },
+    {
+      "id": "S0037",
+      "nome": "Sensor-S0037",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:10:33.666624",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:10:34.198362",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585536",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886436",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048393",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190838",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989018",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197313",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282058",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360804",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972490",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160019",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721364",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785048",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028522",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156730",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250670",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374307",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171511",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914746",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199653",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075418",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235680",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145754",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400605",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:56.444897",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:20.989235",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:53.889622",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:34.111023",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:16.536050",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:09.944907",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:35.794311",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:39.953677",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:29.333870",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:19.338015",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:12.168785",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:38.883072",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:10:34.198362",
+          "status": "erro",
+          "valor": 25.0,
+          "origem": "auto"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 25.2,
+      "ultima_leitura": "2026-06-09T21:29:38.883072"
+    },
+    {
+      "id": "S0038",
+      "nome": "Sensor-S0038",
+      "tipo": "temp",
+      "modo": "externo",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:10:37.945741",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:10:38.507184",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585539",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886439",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048397",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190848",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989026",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197326",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282066",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360819",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972497",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160034",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721375",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785060",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028530",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156738",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250685",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374319",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171519",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914761",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199662",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075430",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235690",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145757",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400640",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:55.849905",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:20.496833",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:52.998606",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:33.175264",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:15.637158",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:09.016553",
+          "valor": 25.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:35.036530",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:38.938119",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:28.368902",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:18.353716",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:11.355172",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:38.012935",
+          "valor": 25.2,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-05T11:10:38.507184",
+          "status": "erro",
+          "valor": 25.0,
+          "origem": "auto"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 25.2,
+      "ultima_leitura": "2026-06-09T21:29:38.012935"
+    },
+    {
+      "id": "S0039",
+      "nome": "Sensor-S0039",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:10:59.107160",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:10:59.661234",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585542",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886442",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048402",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190857",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989034",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197338",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282073",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360833",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972504",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160048",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721387",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785072",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028537",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156746",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250700",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374331",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171762",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914776",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199672",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075443",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235700",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145763",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400655",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:55.344407",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:19.970148",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:52.071206",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:32.223719",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:14.855069",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:08.183743",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:34.282280",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:37.940897",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:27.337288",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:17.477151",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:10.446790",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:37.149928",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.2,
+      "ultima_leitura": "2026-06-09T21:29:37.149928",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0040",
+      "nome": "Sensor-S0040",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:11:04.187575",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:11:04.701681",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585545",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886444",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048407",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190868",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989042",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197351",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282081",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360847",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972511",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160062",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721398",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785084",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028544",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156754",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250715",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374343",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171783",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914790",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199697",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075465",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235709",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145766",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400663",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:54.886333",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:19.507483",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:51.322373",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:31.460975",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:14.112527",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:07.388635",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:33.355186",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:37.014443",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:26.285026",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:16.619559",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:09.513025",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:36.323324",
+          "valor": 60.3,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.3,
+      "ultima_leitura": "2026-06-09T21:29:36.323324",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0041",
+      "nome": "Sensor-S0041",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:11:12.852495",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:11:13.386509",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585548",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886447",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048411",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190877",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989049",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197363",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282089",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360861",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972518",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160077",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721410",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785095",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028551",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156761",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250730",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374355",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171791",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914805",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199711",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075477",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235751",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145769",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400671",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:54.411455",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:18.927698",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:50.478736",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:30.516677",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:13.211593",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:06.608737",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:32.598275",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:36.012185",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:22.987212",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:15.801899",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:08.633542",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:35.391144",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.2,
+      "ultima_leitura": "2026-06-09T21:29:35.391144",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0042",
+      "nome": "Sensor-S0042",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:11:48.296127",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:11:48.964461",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.585551",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T11:33:53.886449",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.048415",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:03:54.190891",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:53.989056",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T12:33:54.197375",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.282096",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:03:54.360874",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:53.972524",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T13:33:54.160091",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.721421",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:03:57.785106",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.028558",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T14:33:54.156769",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.250743",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:03:54.374366",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T15:33:54.171806",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:53.914819",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:03:54.199720",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.075489",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T16:33:54.235766",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.145771",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T17:03:54.400680",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.957711",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:18.448614",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:49.613338",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:29.659015",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:12.342986",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:05.695978",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:31.803624",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:18.392299",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:35.227365",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:22.128516",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:14.854568",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:07.899692",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:34.604831",
+          "valor": 60.3,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.3,
+      "ultima_leitura": "2026-06-09T21:29:34.604831",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0043",
+      "nome": "Sensor-S0043",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:15:27.024999",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:15:27.025016",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.352583",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.854907",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.747415",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.813913",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.542364",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.918911",
+          "valor": 53.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.969344",
+          "valor": 54.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.361028",
+          "valor": 54.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.205845",
+          "valor": 54.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.998565",
+          "valor": 54.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:07.036126",
+          "valor": 55.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.828923",
+          "valor": 55.2,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 55.2,
+      "ultima_leitura": "2026-06-09T21:29:33.828923",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0044",
+      "nome": "Sensor-S0044",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 60.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:15:38.649552",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:15:38.649561",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.327669",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.824243",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.709891",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.673304",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.510928",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.887500",
+          "valor": 70.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.930550",
+          "valor": 70.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.333677",
+          "valor": 71.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.169876",
+          "valor": 71.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.966873",
+          "valor": 71.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:06.986752",
+          "valor": 71.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.771277",
+          "valor": 71.8,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 71.8,
+      "ultima_leitura": "2026-06-09T21:29:33.771277",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0045",
+      "nome": "Sensor-S0045",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:15:55.406873",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:15:55.406896",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.282626",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.797823",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.663308",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.624228",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.469478",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.850786",
+          "valor": 79.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.884379",
+          "valor": 79.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.306497",
+          "valor": 79.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.137374",
+          "valor": 80.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.932416",
+          "valor": 80.2,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:06.935247",
+          "valor": 80.4,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.726899",
+          "valor": 80.6,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-09T21:27:13.932416",
+          "status": "erro",
+          "valor": 80.2,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 80.6,
+      "ultima_leitura": "2026-06-09T21:29:33.726899",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0046",
+      "nome": "Sensor-S0046",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:16:03.710471",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:16:03.710481",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.254685",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.768408",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.618467",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.585771",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.294259",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.698486",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.844995",
+          "valor": 71.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.268164",
+          "valor": 71.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.109438",
+          "valor": 71.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.900801",
+          "valor": 72.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:06.877897",
+          "valor": 72.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.694213",
+          "valor": 72.6,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 72.6,
+      "ultima_leitura": "2026-06-09T21:29:33.694213",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0047",
+      "nome": "Sensor-S0047",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:16:28.019888",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:16:28.019900",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.226690",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.736582",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.589018",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.525749",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.264526",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.640351",
+          "valor": 71.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.803557",
+          "valor": 71.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.235648",
+          "valor": 71.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.078575",
+          "valor": 71.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.866615",
+          "valor": 72.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:06.830334",
+          "valor": 72.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.561487",
+          "valor": 72.5,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 72.5,
+      "ultima_leitura": "2026-06-09T21:29:33.561487",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0048",
+      "nome": "Sensor-S0048",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T11:16:34.918142",
+      "historico": [
+        {
+          "ts": "2026-06-05T11:16:34.918156",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.198388",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.705038",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.544255",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.473614",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.209667",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.588957",
+          "valor": 47.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.753136",
+          "valor": 47.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.187759",
+          "valor": 47.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.052864",
+          "valor": 47.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.832026",
+          "valor": 47.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:06.778352",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.456705",
+          "valor": 48.3,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 48.3,
+      "ultima_leitura": "2026-06-09T21:29:33.456705",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0049",
+      "nome": "Sensor-S0049",
+      "tipo": "umid",
+      "modo": "externo",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:17:26.990594",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:17:27.646267",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:53.158208",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.662380",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:48.495985",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:28.428512",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:11.157403",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:04.532826",
+          "valor": 60.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:30.691493",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:34.134478",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:21.023902",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:13.791154",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:06.717440",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:33.406264",
+          "valor": 60.2,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 60.2,
+      "ultima_leitura": "2026-06-09T21:29:33.406264",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0050",
+      "nome": "Sensor-S0050",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:17:36.308118",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:17:36.308131",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.621152",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.165619",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.665403",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.596334",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.418241",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.430467",
+          "valor": 45.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.634283",
+          "valor": 45.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.249193",
+          "valor": 45.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:18.215013",
+          "valor": 46.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.896538",
+          "valor": 46.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.812788",
+          "valor": 46.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.540044",
+          "valor": 46.7,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 46.7,
+      "ultima_leitura": "2026-06-09T21:29:30.540044",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0051",
+      "nome": "Sensor-S0051",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:17:51.522112",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:17:51.522134",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.597778",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.134688",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.624014",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.561738",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.371926",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.385242",
+          "valor": 55.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.607469",
+          "valor": 55.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.208470",
+          "valor": 55.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:18.186181",
+          "valor": 56.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.865115",
+          "valor": 56.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.779223",
+          "valor": 56.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.489558",
+          "valor": 56.6,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 56.6,
+      "ultima_leitura": "2026-06-09T21:29:30.489558",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0053",
+      "nome": "Sensor-S0053",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:18:53.670252",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:18:53.670271",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.564884",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.108558",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.588927",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.516610",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.332923",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.348118",
+          "valor": 66.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.575851",
+          "valor": 66.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.172712",
+          "valor": 66.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:18.144043",
+          "valor": 67.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.807832",
+          "valor": 67.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.744427",
+          "valor": 67.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.439469",
+          "valor": 67.7,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 67.7,
+      "ultima_leitura": "2026-06-09T21:29:30.439469",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0054",
+      "nome": "Sensor-S0054",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:18:59.096413",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:18:59.096432",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.540891",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.079682",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.552218",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.478579",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.298043",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.307373",
+          "valor": 49.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.547796",
+          "valor": 49.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.139684",
+          "valor": 50.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:18.104585",
+          "valor": 50.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.681851",
+          "valor": 50.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.696643",
+          "valor": 50.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.388307",
+          "valor": 50.9,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 50.9,
+      "ultima_leitura": "2026-06-09T21:29:30.388307",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0055",
+      "nome": "Sensor-S0055",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:19:16.681836",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:19:16.681849",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.513264",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.047047",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.521665",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.449424",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.253039",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.255766",
+          "valor": 48.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.520033",
+          "valor": 48.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.111366",
+          "valor": 48.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:18.049571",
+          "valor": 48.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.631241",
+          "valor": 48.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.650235",
+          "valor": 49.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.333979",
+          "valor": 49.3,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 49.3,
+      "ultima_leitura": "2026-06-09T21:29:30.333979",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0056",
+      "nome": "Sensor-S0056",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 50.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:20:23.351127",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:20:23.351157",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.483500",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:17.020598",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.493985",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.400098",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.204795",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.201785",
+          "valor": 62.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.491239",
+          "valor": 62.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.076002",
+          "valor": 62.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.994136",
+          "valor": 62.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.592887",
+          "valor": 62.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.599670",
+          "valor": 63.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.279412",
+          "valor": 63.3,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 63.3,
+      "ultima_leitura": "2026-06-09T21:29:30.279412",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0057",
+      "nome": "Sensor-S0057",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 50.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:20:28.238714",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:20:28.238728",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.456091",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:16.997130",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.455867",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.361888",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.158280",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.152738",
+          "valor": 57.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.458797",
+          "valor": 57.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.041953",
+          "valor": 57.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.945752",
+          "valor": 58.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.552104",
+          "valor": 58.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.547710",
+          "valor": 58.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.224537",
+          "valor": 58.7,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 58.7,
+      "ultima_leitura": "2026-06-09T21:29:30.224537",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0058",
+      "nome": "Sensor-S0058",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 50.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:20:45.328277",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:20:45.328290",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:20:52.420786",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:21:16.961893",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:23:47.410409",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:24:25.331023",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.110317",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.117817",
+          "valor": 65.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.428188",
+          "valor": 65.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:33.008954",
+          "valor": 65.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.892910",
+          "valor": 65.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.504296",
+          "valor": 66.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.501898",
+          "valor": 66.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.167006",
+          "valor": 66.4,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 66.4,
+      "ultima_leitura": "2026-06-09T21:29:30.167006",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0059",
+      "nome": "Sensor-S0059",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": "variacao",
+      "criado_em": "2026-06-05T18:33:16.269545",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:16.269565",
+          "valor": 69.5,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.060952",
+          "valor": 73.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.071765",
+          "valor": 77.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.380481",
+          "valor": 78.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.974934",
+          "valor": 79.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.845714",
+          "valor": 73.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.470240",
+          "valor": 68.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.451162",
+          "valor": 61.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.134722",
+          "valor": 64.0,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 64.0,
+      "ultima_leitura": "2026-06-09T21:29:30.134722",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0060",
+      "nome": "Sensor-S0060",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": "erro_deteccao",
+      "criado_em": "2026-06-05T18:33:26.736683",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:26.736703",
+          "valor": 73.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:08.020653",
+          "valor": 70.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:03.027840",
+          "valor": 70.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.335819",
+          "valor": 24.5,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.920954",
+          "valor": 98.3,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.792956",
+          "valor": 95.7,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.423497",
+          "valor": 88.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.410979",
+          "valor": 20.0,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:30.098758",
+          "valor": 88.8,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-09T21:18:29.335819",
+          "status": "erro",
+          "valor": 24.5,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 88.8,
+      "ultima_leitura": "2026-06-09T21:29:30.098758",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0061",
+      "nome": "Sensor-S0061",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": "sem_resposta",
+      "criado_em": "2026-06-05T18:33:31.525364",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:31.525383",
+          "valor": 58.2,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:07.990951",
+          "valor": 58.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:02.985026",
+          "valor": 58.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.288159",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.876957",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.751543",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.384391",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.361563",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:29.964158",
+          "valor": null,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-09T21:18:29.288159",
+          "status": "erro",
+          "valor": null,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": null,
+      "ultima_leitura": "2026-06-09T21:29:29.964158",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0062",
+      "nome": "Sensor-S0062",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:33:35.851945",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:35.851963",
+          "valor": 79.9,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:07.964822",
+          "valor": 79.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:02.936778",
+          "valor": 79.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.243924",
+          "valor": 80.1,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.848342",
+          "valor": 80.3,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.700412",
+          "valor": 80.5,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.344860",
+          "valor": 80.7,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.314022",
+          "valor": 80.9,
+          "status": "erro",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:29.921037",
+          "valor": 81.1,
+          "status": "erro",
+          "origem": "manual"
+        }
+      ],
+      "log": [
+        {
+          "ts": "2026-06-09T21:18:29.243924",
+          "status": "erro",
+          "valor": 80.1,
+          "origem": "manual"
+        }
+      ],
+      "status_atual": "erro",
+      "ultimo_valor": 81.1,
+      "ultima_leitura": "2026-06-09T21:29:29.921037",
+      "efeito_irrigacao": 60
+    },
+    {
+      "id": "S0063",
+      "nome": "Sensor-S0063",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:33:41.826215",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:41.826233",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:07.933182",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:02.889554",
+          "valor": 68.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.197162",
+          "valor": 68.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.794235",
+          "valor": 69.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.642936",
+          "valor": 69.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.290630",
+          "valor": 69.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.279597",
+          "valor": 69.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:29.867751",
+          "valor": 69.8,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 69.8,
+      "ultima_leitura": "2026-06-09T21:29:29.867751",
+      "efeito_irrigacao": 100
+    },
+    {
+      "id": "S0064",
+      "nome": "Sensor-S0064",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:33:46.579389",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:46.579407",
+          "valor": 40.6,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:07.888906",
+          "valor": 40.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:02.831099",
+          "valor": 40.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.152193",
+          "valor": 40.8,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.743647",
+          "valor": 41.0,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.591264",
+          "valor": 41.2,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.242700",
+          "valor": 41.4,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.250349",
+          "valor": 41.6,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:29.821916",
+          "valor": 41.8,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 41.8,
+      "ultima_leitura": "2026-06-09T21:29:29.821916",
+      "efeito_irrigacao": 90
+    },
+    {
+      "id": "S0065",
+      "nome": "Sensor-S0065",
+      "tipo": "umid",
+      "modo": "estufa",
+      "min_val": 40.0,
+      "max_val": 80.0,
+      "falha": null,
+      "criado_em": "2026-06-05T18:33:51.001135",
+      "historico": [
+        {
+          "ts": "2026-06-05T18:33:51.001154",
+          "valor": 67.1,
+          "status": "ok",
+          "origem": "auto"
+        },
+        {
+          "ts": "2026-06-05T18:34:07.764416",
+          "valor": 67.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-05T18:35:02.775693",
+          "valor": 67.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:18:29.120614",
+          "valor": 67.3,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:25:32.698772",
+          "valor": 67.5,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:26:17.538423",
+          "valor": 67.7,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:27:10.189310",
+          "valor": 67.9,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:28:05.206981",
+          "valor": 68.1,
+          "status": "ok",
+          "origem": "manual"
+        },
+        {
+          "ts": "2026-06-09T21:29:29.773856",
+          "valor": 68.3,
+          "status": "ok",
+          "origem": "manual"
+        }
+      ],
+      "log": [],
+      "status_atual": "ok",
+      "ultimo_valor": 68.3,
+      "ultima_leitura": "2026-06-09T21:29:29.773856",
+      "efeito_irrigacao": 60
+    }
+  ],
+  "log_auto": [
+    {
+      "ts": "2026-04-19T18:43:03.483597",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-04-19T19:11:00.420810",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-04-19T19:12:59.905439",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-04-21T17:05:09.250711",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-04-21T17:44:07.768421",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-04-21T17:44:08.628864",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T11:33:53.585453",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T11:33:53.886365",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T12:03:54.048293",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T12:03:54.190546",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T12:33:53.988856",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T12:33:54.197111",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T13:03:54.281903",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T13:03:54.360583",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T13:33:53.972363",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T13:33:54.159796",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T14:03:57.721179",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T14:03:57.784854",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T14:33:54.028366",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T14:33:54.156575",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T15:03:54.250432",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T15:03:54.374112",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T15:33:54.171378",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T16:03:53.914476",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T16:03:54.199230",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T16:33:54.075224",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T16:33:54.235520",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T17:03:54.145667",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    },
+    {
+      "ts": "2026-06-05T17:03:54.400433",
+      "clima": {
+        "temperatura": 25.0,
+        "umidade": 60
+      },
+      "ok": true
+    }
+  ]
+}

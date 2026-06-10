@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="templates/style.css">
+    <title>SensorGrid — Gerenciar</title>
+</head>
+<body>
+
+<header id="header-principal">
+    <a href="/" class="logo">⬡ SensorGrid</a>
+    <nav>
+        <a href="/" class="nav-link">Criar Sensor</a>
+        <a href="/gerenciar" class="nav-link ativo">Gerenciar</a>
+        <button class="btn-acoes" onclick="abrirModal()">Ações rápidas</button>
+    </nav>
+</header>
+
+<div id="view-grid">
+    <div class="gerenciar-toolbar">
+        <div class="filtros-wrap">
+            <div class="filtro-grupo">
+                <span class="filtro-label">AMBIENTE</span>
+                <button class="filtro-btn ativo" onclick="filtrarModo('todos', this)">Todos</button>
+                <button class="filtro-btn" onclick="filtrarModo('externo', this)">🌿 Externo</button>
+                <button class="filtro-btn" onclick="filtrarModo('estufa', this)">🏠 Estufa</button>
+            </div>
+            <div class="filtro-grupo">
+                <span class="filtro-label">TIPO</span>
+                <button class="filtro-btn ativo" onclick="filtrarTipo('todos', this)">Todos</button>
+                <button class="filtro-btn" onclick="filtrarTipo('temp', this)">🌡 Temperatura</button>
+                <button class="filtro-btn" onclick="filtrarTipo('umid', this)">💧 Umidade</button>
+            </div>
+        </div>
+        <div style="display:flex;align-items:center;gap:12px">
+            <div class="stats" id="stats-bar"></div>
+            <button class="btn-leitura-geral" onclick="leituraGeral()">Realizar leitura</button>
+        </div>
+    </div>
+
+    <div class="grid" id="sensor-grid"></div>
+
+    <div class="empty-state hidden" id="empty-state">
+        <div class="empty-icon">◎</div>
+        <p>Nenhum sensor encontrado.</p>
+        <a href="/">Criar sensor</a>
+    </div>
+</div>
+
+<div id="view-detalhe" class="hidden"></div>
+
+<div class="modal-overlay hidden" id="modal-overlay" onclick="fecharModalOverlay(event)">
+    <div class="modal">
+        <div class="modal-header">
+            <span class="modal-titulo">Ações Rápidas</span>
+            <button class="modal-fechar" onclick="fecharModal()">✕</button>
+        </div>
+
+        <div class="modal-secao">
+            <div class="modal-secao-label">
+                <span class="modal-dot azul"></span>REGISTRAR IRRIGAÇÃO
+            </div>
+            <p class="modal-desc">Registra irrigação global. O sistema verifica sensores de umidade da estufa abaixo do esperado.</p>
+            <button class="btn-modal azul" onclick="registrarIrrigacao()">💧 Registrar irrigação</button>
+            <div class="modal-feedback hidden" id="fb-irrigacao"></div>
+        </div>
+
+        <div class="modal-divisor"></div>
+
+        <div class="modal-secao">
+            <div class="modal-secao-label">
+                <span class="modal-dot verde"></span>TEMPERATURA DA ESTUFA
+            </div>
+            <p class="modal-desc">Atualiza todos os sensores de temperatura da estufa.</p>
+            <div class="input-row" style="gap:10px">
+                <div class="input-wrap" style="flex:1">
+                    <span class="input-label">°C</span>
+                    <input type="number" id="estufa-temp" placeholder="ex: 27" step="0.1"
+                        style="padding-left:36px;width:100%;background:var(--bg3);border:1px solid var(--border);border-radius:var(--radius);color:var(--text);padding:10px 12px 10px 36px;font-family:var(--mono);font-size:14px;outline:none;">
+                </div>
+            </div>
+            <button class="btn-modal verde" onclick="registrarTempEstufa()" style="margin-top:10px">🌡 Atualizar temperatura</button>
+            <div class="modal-feedback hidden" id="fb-estufa"></div>
+        </div>
+
+    </div>
+</div>
+
+<script src="templates/script.js"></script>
+</body>
+</html>
